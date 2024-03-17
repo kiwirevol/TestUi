@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/g2tgwmasyayl34ma?svg=true)](https://ci.appveyor.com/project/kiwirevol/testui)
